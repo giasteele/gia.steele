@@ -1,6 +1,6 @@
 # Hi, I’m gia
 
-[One sentence about a technical interest and the kind of project you enjoy.]
+I am an artist and I draw a lot.
 
 ## Featured project
 [Which paper plane flies farther?](<https://github.com/YOUR-USERNAME/my-first-repo/blob/main/flight-log.md>)
